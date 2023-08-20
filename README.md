@@ -14,6 +14,7 @@
 - Testing with XCODE;
 
 ## Future improvements
+- User switching functionality;
 - Add `open modal` feature for image with like, share, etc;
 - Add changing profile photo and editing my profile data functionality;
 - Add store for whole app to cache, store and reuse requests data; 
