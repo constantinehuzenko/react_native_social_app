@@ -1,0 +1,17 @@
+export const Photos = [
+  "https://images.pexels.com/photos/12420463/pexels-photo-12420463.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "https://images.pexels.com/photos/10849301/pexels-photo-10849301.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "https://images.pexels.com/photos/18001513/pexels-photo-18001513/free-photo-of-istiklal.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "https://images.pexels.com/photos/7630928/pexels-photo-7630928.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "https://images.pexels.com/photos/17142299/pexels-photo-17142299/free-photo-of-woman-in-a-dress-sitting-in-an-opened-wooden-closet-with-dresses-hanging-on-the-rack.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "https://images.pexels.com/photos/17089586/pexels-photo-17089586/free-photo-of-palazzo-barberini.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "https://images.pexels.com/photos/16910383/pexels-photo-16910383/free-photo-of-caminando.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "https://images.pexels.com/photos/17977998/pexels-photo-17977998/free-photo-of-light-black-and-white-city-road.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "https://images.pexels.com/photos/14111067/pexels-photo-14111067.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "https://images.pexels.com/photos/14264281/pexels-photo-14264281.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "https://images.pexels.com/photos/17333445/pexels-photo-17333445/free-photo-of-close-up-of-a-fly-on-a-plant.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "https://images.pexels.com/photos/17820062/pexels-photo-17820062/free-photo-of-woman-and-man-in-traditional-clothing.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "https://images.pexels.com/photos/17951109/pexels-photo-17951109/free-photo-of-let-s-go-for-an-adventure.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "https://images.pexels.com/photos/13693491/pexels-photo-13693491.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+  "https://images.pexels.com/photos/17652947/pexels-photo-17652947/free-photo-of-close-up-of-bear-near-waterfall.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+];
